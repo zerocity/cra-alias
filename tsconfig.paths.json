@@ -2,8 +2,7 @@
   "compilerOptions": {
     "baseUrl": ".",
     "paths": {
-      "@component/*": ["./src/component/*"],
-      "@primitives/*": ["./src/primitives/*"]
+      "@app/*": ["./src/*"]
     }
   }
 }
